@@ -1,4 +1,4 @@
-# password_cryptor_front_end
+# Password Criptor (Front-End)
 
 ## Build Setup
 
