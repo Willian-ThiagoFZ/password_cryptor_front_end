@@ -1,5 +1,9 @@
 # Password Criptor (Front-End)
 
+<p align="center">🚀 Projeto de Encryptador de Senhas (Front-End Desenvolvido em <a href="https://nuxtjs.org">🔗 NuxtJs</a>) </p>
+
+<p align="center"> Back-End -> <a href="https://github.com/Willian-ThiagoFZ/password_criptor_back_end">🔗 Password Cryptor </a></p>
+
 ## Build Setup
 
 ```bash
