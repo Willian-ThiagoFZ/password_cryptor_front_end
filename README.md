@@ -1,4 +1,4 @@
-<h1 align="center">Password Cryptor (Back-end)</h1>
+<h1 align="center">Password Cryptor (Front-end)</h1>
 
 <p align="center">🚀 Projeto de Encryptador de Senhas (Front-End Desenvolvido em <a href="https://nuxtjs.org">🔗 NuxtJs</a>) </p>
 
