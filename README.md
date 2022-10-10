@@ -7,18 +7,19 @@
 ## Build Setup
 
 ```bash
+
+# Clone Project
+$ git clone https://github.com/Willian-ThiagoFZ/password_cryptor_front_end.git
+$ cd password_cryptor_front_end
+
 # install dependencies
 $ npm install
 
 # serve with hot reload at localhost:3000
 $ npm run dev
 
-# build for production and launch server
-$ npm run build
-$ npm run start
+# Listening on: http://localhost:3000/
 
-# generate static project
-$ npm run generate
 ```
 
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
